@@ -75,7 +75,7 @@ A disciplina é dividida em 20 semanas (90 minutos cada), distribuídas da segui
 
 Para dúvidas e mais informações, entre em contato com o professor:
 
-- **Email:** seu.email@instituicao.edu.br
+- **Email:** tiago.lima@palmares.ifpe.edu.br
 
 ---
 
