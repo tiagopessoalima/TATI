@@ -46,6 +46,5 @@ Este repositório contém a programação e os materiais da disciplina de **Tóp
   - *Projeto 2 (Semana 20):* Desenvolvimento de um pipeline completo integrando ETL, análise e visualização.
 - **Seminários:** Temas sugeridos incluem impacto social, desafios com grandes volumes de dados e inovações tecnológicas.
 - **Ferramentas Recomendadas:** Google Colab ou Jupyter Notebook.
-- **Dica:** Incluir exercícios curtos ao final de cada aula para fixação do conteúdo.
-
+  
 ---
