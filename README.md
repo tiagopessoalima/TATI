@@ -1,4 +1,4 @@
-# Tópicos Avançados em Tecnologia da Informação
+# Tópicos Avançados em Tecnologia da Informação (TATI)
 
 Este repositório contém os materiais, códigos e projetos desenvolvidos durante a disciplina de **Tópicos Avançados em Tecnologia da Informação**, ministrada no IFPE-Palmares. Nele, você encontrará conteúdos teóricos e práticos que abrangem desde fundamentos de manipulação e visualização de dados até temas avançados como análise de séries temporais, dados geoespaciais e big data, com foco em projetos integradores e aplicações reais.
 
