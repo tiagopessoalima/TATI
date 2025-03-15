@@ -1,12 +1,33 @@
 # Tópicos Avançados em Tecnologia da Informação
 
-Este repositório contém a programação e os materiais da disciplina de **Tópicos Avançados em Tecnologia da Informação**, composta por 20 semanas de aulas de 90 minutos. O curso abrange desde fundamentos, manipulação, limpeza e visualização de dados até temas avançados como análise de séries temporais, dados geoespaciais e big data, com foco em projetos práticos.
+Este repositório contém os materiais, códigos e projetos desenvolvidos durante a disciplina de **Tópicos Avançados em Tecnologia da Informação**, ministrada no IFPE-Palmares. Nele, você encontrará conteúdos teóricos e práticos que abrangem desde fundamentos de manipulação e visualização de dados até temas avançados como análise de séries temporais, dados geoespaciais e big data, com foco em projetos integradores e aplicações reais.
 
----
+## Objetivo Geral
 
-## Programação do Curso
+Capacitar os alunos a compreender, aplicar e integrar conceitos avançados em tecnologia da informação, desenvolvendo habilidades em:
 
-### Primeira Metade do Curso (Semanas 1–10)
+- Processamento e análise de grandes volumes de dados.
+- Aplicação de métodos estatísticos e geoespaciais.
+- Implementação prática de pipelines de dados.
+- Integração de conceitos teóricos com projetos reais.
+
+## Metodologia
+
+- **Aulas Expositivas e Discussões Teóricas:** Abordagem dos conceitos essenciais e fundamentos dos tópicos avançados.
+- **Atividades Práticas:** Exercícios, implementações e análises utilizando Python e ferramentas específicas.
+- **Projetos Práticos:** Desenvolvimento de projetos que integram os diversos conceitos estudados durante o curso.
+- **Seminários:** Apresentações e debates sobre estudos de caso e inovações tecnológicas.
+
+## Estrutura do Curso
+
+A disciplina é dividida em 20 semanas (90 minutos cada), distribuídas da seguinte forma:
+
+- **60% Prático:** Implementações, projetos e exercícios.
+- **40% Teórico:** Conceitos fundamentais e avaliações.
+
+### Programação do Curso
+
+#### Primeira Metade do Curso (Semanas 1–10)
 
 | Semana | Tópico                                     | Detalhes                                                                                                                       |
 |--------|--------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
@@ -21,7 +42,7 @@ Este repositório contém a programação e os materiais da disciplina de **Tóp
 | 9      | Seminários 1                               | Apresentações de casos reais (ex.: uso de dados em saúde, marketing etc.).                                                     |
 | 10     | Projeto 1                                  | Projeto prático: análise de dataset (limpeza, visualização e extração de insights).                                           |
 
-### Segunda Metade do Curso (Semanas 11–20)
+#### Segunda Metade do Curso (Semanas 11–20)
 
 | Semana | Tópico                                         | Detalhes                                                                                                                       |
 |--------|------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
@@ -33,18 +54,29 @@ Este repositório contém a programação e os materiais da disciplina de **Tóp
 | 16     | Big Data (Conceitos e Ferramentas)               | Introdução ao Hadoop, Spark e processamento distribuído.                                                                      |
 | 17     | Revisão 2                                      | Síntese dos conteúdos das semanas 11 a 16.                                                                                     |
 | 18     | Prova 2                                        | Avaliação teórica e prática dos conteúdos abordados.                                                                           |
-| 19     | Seminários 2                                   | Apresentações de estudos de caso e aplicações avançadas em Ciência de Dados.                                                   |
+| 19     | Seminários 2                                   | Apresentações de estudos de caso e aplicações avançadas em tecnologia da informação.                                           |
 | 20     | Projeto 2                                      | Projeto integrador: desenvolvimento de um pipeline completo – da coleta e tratamento à análise e visualização dos dados.         |
 
+## Componentes da Avaliação
+
+- **Provas (40%):** Duas provas que englobam os conteúdos teóricos e práticos (Semanas 8 e 18).
+- **Projetos (30%):** Dois projetos práticos (apresentados nas Semanas 10 e 20).
+- **Seminários (20%):** Apresentações e debates sobre temas avançados.
+- **Atividades Semanais (10%):** Exercícios, quizzes e participação em discussões.
+
+## Tecnologias e Ferramentas
+
+- **Linguagem de Programação:** Python.
+- **Ambientes de Desenvolvimento:** Google Colab, Jupyter Notebook.
+- **Versionamento:** GitHub (este repositório).
+- **Ferramentas Adicionais:** Bibliotecas como NumPy, Pandas, Matplotlib, Seaborn, GeoPandas, além de plataformas de Big Data (Hadoop, Spark).
+
+## Contato
+
+Para dúvidas e mais informações, entre em contato com o professor:
+
+- **Email:** seu.email@instituicao.edu.br
+
 ---
 
-## Observações Gerais
-
-- **Aulas Práticas:** Utilizar datasets públicos (ex.: Kaggle, UCI Machine Learning Repository) para exercícios semanais.
-- **Projetos:**  
-  - *Projeto 1 (Semana 10):* Foco em análise exploratória (ex.: dados socioeconômicos).  
-  - *Projeto 2 (Semana 20):* Desenvolvimento de um pipeline completo integrando ETL, análise e visualização.
-- **Seminários:** Temas sugeridos incluem impacto social, desafios com grandes volumes de dados e inovações tecnológicas.
-- **Ferramentas Recomendadas:** Google Colab ou Jupyter Notebook.
-  
----
+Este repositório serve como fonte de estudo e referência para estudantes, profissionais e entusiastas que desejam aprofundar seus conhecimentos em tecnologias avançadas de informação e explorar aplicações práticas no mercado.
