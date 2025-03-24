@@ -38,7 +38,7 @@ A disciplina é dividida em 20 semanas (90 minutos cada), distribuídas da segui
 | Semana | Tópico | Detalhes | 🛠️ Ferramentas/Técnicas | Material de Apoio |
 | :-----: | :------------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------ | :---: |
 | 1 | 📚 Introdução à Ciência de Dados | Conceitos básicos, ciclo de vida (CRISP-DM), Python/R, Jupyter. | 🐍 Python, 📈 R, 📝 Jupyter | [Apostila](Apostila_Semana_01_(TATI).pdf), [Colab](Aula_Semana_01_(TATI).ipynb) |
-| 2 | 🐍 [Programação para Ciência de Dados (Python)](Aula_Semana_02_(TATI).ipynb) | Sintaxe, NumPy, Pandas, manipulação de dados. | 🐍 Python, 🔢 NumPy, 🐼 Pandas |  Colab |
+| 2 | 🐍 Programação para Ciência de Dados (Python) | Sintaxe, NumPy, Pandas, manipulação de dados. | 🐍 Python, 🔢 NumPy, 🐼 Pandas |  [Colab](Aula_Semana_02_(TATI).ipynb) |
 | 3 | 🧹 Manipulação e Limpeza de Dados | Tratamento de dados faltantes, outliers, normalização. | 🐼 Pandas, ⚙️ Scikit-learn |  Colab |
 | 4 | 📊 Visualização de Dados | Gráficos estatísticos, storytelling com dados. | 📉 Matplotlib, 🎨 Seaborn |  Colab |
 | 5 | 📈 Estatística Descritiva | Medidas de tendência central, dispersão, EDA. | 🐼 Pandas, 🔢 NumPy |  Colab |
