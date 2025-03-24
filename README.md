@@ -37,26 +37,26 @@ A disciplina é dividida em 20 semanas (90 minutos cada), distribuídas da segui
 
 quero colocar nessa tabela links pra material de apoio (apostila) e colab. Sugere alteracoes: | Semana | Tópico | Detalhes | 🛠️ Ferramentas/Técnicas | Material de Apoio |
 | :-----: | :------------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------ | :---: |
-| 1 | 📚 [Introdução à Ciência de Dados](Aula_Semana_01_(TATI).ipynb) | Conceitos básicos, ciclo de vida (CRISP-DM), Python/R, Jupyter. | 🐍 Python, 📈 R, 📝 Jupyter |
-| 2 | 🐍 [Programação para Ciência de Dados (Python)](Aula_Semana_02_(TATI).ipynb) | Sintaxe, NumPy, Pandas, manipulação de dados. | 🐍 Python, 🔢 NumPy, 🐼 Pandas |
-| 3 | 🧹 Manipulação e Limpeza de Dados | Tratamento de dados faltantes, outliers, normalização. | 🐼 Pandas, ⚙️ Scikit-learn |
-| 4 | 📊 Visualização de Dados | Gráficos estatísticos, storytelling com dados. | 📉 Matplotlib, 🎨 Seaborn |
-| 5 | 📈 Estatística Descritiva | Medidas de tendência central, dispersão, EDA. | 🐼 Pandas, 🔢 NumPy |
-| 6 | 🧪 Estatística Inferencial Básica | Testes de hipóteses, intervalos de confiança, correlação. | 🔬 SciPy, 📊 Statsmodels |
-| 7 | 📝 Revisão 1 | Recapitulação das Semanas 1–6. | 📖 Revisão geral |
-| 8 | 📝 Prova 1 | Avaliação teórica e prática. | ✍️ Prova escrita e prática |
-| 9 | 🗣️ Seminários 1 | Apresentação de casos reais. | 🎤 Apresentações e debates |
-| 10 | 💻 Projeto 1 | Análise de dataset (limpeza, visualização, insights). | 🐼 Pandas, 📉 Matplotlib, 🎨 Seaborn |
-| 11 | 🗄️ Banco de Dados e SQL | Consultas básicas e avançadas, integração com Python. | 💽 SQL, 🔗 SQLAlchemy |
-| 12 | 🛠️ Manipulação Avançada de Dados | Agregações, pivot tables, merge/concatenate. | 🐼 Pandas |
-| 13 | 🏗️ Introdução à Engenharia de Dados | Conceitos de ETL, pipelines de dados. | 💨 Airflow, 🧩 Luigi |
-| 14 | 🗺️ Análise de Dados Geoespaciais | Manipulação e visualização de dados espaciais. | 🌍 GeoPandas, 📍 Folium |
-| 15 | 🕒 Análise de Séries Temporais e Dados Sequenciais | Modelagem de tendências, sazonalidades, previsão. | 📈 Statsmodels, 🔮 Prophet |
-| 16 | 🐘 Big Data (Conceitos e Ferramentas) | Hadoop, Spark, processamento distribuído. | 🐘 Hadoop, 🔥 Spark |
-| 17 | 📝 Revisão 2 | Síntese das Semanas 11–16. | 📖 Revisão geral |
-| 18 | 📝 Prova 2 | Avaliação teórica e prática. | ✍️ Prova escrita e prática |
-| 19 | 🗣️ Seminários 2 | Estudos de caso e aplicações avançadas. | 🎤 Apresentações e debates |
-| 20 | 💻 Projeto 2 | Projeto integrador: pipeline completo de dados. | ⚙️ Pipeline de dados completo |
+| 1 | 📚 [Introdução à Ciência de Dados](Aula_Semana_01_(TATI).ipynb) | Conceitos básicos, ciclo de vida (CRISP-DM), Python/R, Jupyter. | 🐍 Python, 📈 R, 📝 Jupyter | Colab |
+| 2 | 🐍 [Programação para Ciência de Dados (Python)](Aula_Semana_02_(TATI).ipynb) | Sintaxe, NumPy, Pandas, manipulação de dados. | 🐍 Python, 🔢 NumPy, 🐼 Pandas |  Colab |
+| 3 | 🧹 Manipulação e Limpeza de Dados | Tratamento de dados faltantes, outliers, normalização. | 🐼 Pandas, ⚙️ Scikit-learn |  Colab |
+| 4 | 📊 Visualização de Dados | Gráficos estatísticos, storytelling com dados. | 📉 Matplotlib, 🎨 Seaborn |  Colab |
+| 5 | 📈 Estatística Descritiva | Medidas de tendência central, dispersão, EDA. | 🐼 Pandas, 🔢 NumPy |  Colab |
+| 6 | 🧪 Estatística Inferencial Básica | Testes de hipóteses, intervalos de confiança, correlação. | 🔬 SciPy, 📊 Statsmodels |  Colab |
+| 7 | 📝 Revisão 1 | Recapitulação das Semanas 1–6. | 📖 Revisão geral |  Colab |
+| 8 | 📝 Prova 1 | Avaliação teórica e prática. | ✍️ Prova escrita e prática |  Colab |
+| 9 | 🗣️ Seminários 1 | Apresentação de casos reais. | 🎤 Apresentações e debates |  Colab |
+| 10 | 💻 Projeto 1 | Análise de dataset (limpeza, visualização, insights). | 🐼 Pandas, 📉 Matplotlib, 🎨 Seaborn |  Colab |
+| 11 | 🗄️ Banco de Dados e SQL | Consultas básicas e avançadas, integração com Python. | 💽 SQL, 🔗 SQLAlchemy |  Colab |
+| 12 | 🛠️ Manipulação Avançada de Dados | Agregações, pivot tables, merge/concatenate. | 🐼 Pandas |  Colab |
+| 13 | 🏗️ Introdução à Engenharia de Dados | Conceitos de ETL, pipelines de dados. | 💨 Airflow, 🧩 Luigi |  Colab |
+| 14 | 🗺️ Análise de Dados Geoespaciais | Manipulação e visualização de dados espaciais. | 🌍 GeoPandas, 📍 Folium |  Colab |
+| 15 | 🕒 Análise de Séries Temporais e Dados Sequenciais | Modelagem de tendências, sazonalidades, previsão. | 📈 Statsmodels, 🔮 Prophet |  Colab |
+| 16 | 🐘 Big Data (Conceitos e Ferramentas) | Hadoop, Spark, processamento distribuído. | 🐘 Hadoop, 🔥 Spark |  Colab |
+| 17 | 📝 Revisão 2 | Síntese das Semanas 11–16. | 📖 Revisão geral |  Colab |
+| 18 | 📝 Prova 2 | Avaliação teórica e prática. | ✍️ Prova escrita e prática |  Colab |
+| 19 | 🗣️ Seminários 2 | Estudos de caso e aplicações avançadas. | 🎤 Apresentações e debates |  Colab |
+| 20 | 💻 Projeto 2 | Projeto integrador: pipeline completo de dados. | ⚙️ Pipeline de dados completo |  Colab |
 
 ## 💡 Como Utilizar Este Repositório
 
