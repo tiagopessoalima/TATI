@@ -37,7 +37,7 @@ A disciplina é dividida em 20 semanas (90 minutos cada), distribuídas da segui
 
 | Semana | Tópico | Detalhes | 🛠️ Ferramentas/Técnicas |
 | :-----: | :------------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------ |
-| 1 | 📚 Introdução à Ciência de Dados | Conceitos básicos, ciclo de vida (CRISP-DM), Python/R, Jupyter. | 🐍 Python, 📈 R, 📝 Jupyter |
+| 1 | 📚 [Introdução à Ciência de Dados](Aula_Semana_01 (TATI).ipynb) | Conceitos básicos, ciclo de vida (CRISP-DM), Python/R, Jupyter. | 🐍 Python, 📈 R, 📝 Jupyter |
 | 2 | 🐍 Programação para Ciência de Dados (Python) | Sintaxe, NumPy, Pandas, manipulação de dados. | 🐍 Python, 🔢 NumPy, 🐼 Pandas |
 | 3 | 🧹 Manipulação e Limpeza de Dados | Tratamento de dados faltantes, outliers, normalização. | 🐼 Pandas, ⚙️ Scikit-learn |
 | 4 | 📊 Visualização de Dados | Gráficos estatísticos, storytelling com dados. | 📉 Matplotlib, 🎨 Seaborn |
