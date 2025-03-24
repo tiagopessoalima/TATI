@@ -35,7 +35,7 @@ A disciplina é dividida em 20 semanas (90 minutos cada), distribuídas da segui
 
 ## 🚀 Conteúdo Detalhado
 
-quero colocar nessa tabela links pra material de apoio (apostila) e colab. Sugere alteracoes: | Semana | Tópico | Detalhes | 🛠️ Ferramentas/Técnicas | Material de Apoio |
+| Semana | Tópico | Detalhes | 🛠️ Ferramentas/Técnicas | Material de Apoio |
 | :-----: | :------------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------ | :---: |
 | 1 | 📚 [Introdução à Ciência de Dados](Aula_Semana_01_(TATI).ipynb) | Conceitos básicos, ciclo de vida (CRISP-DM), Python/R, Jupyter. | 🐍 Python, 📈 R, 📝 Jupyter | Colab |
 | 2 | 🐍 [Programação para Ciência de Dados (Python)](Aula_Semana_02_(TATI).ipynb) | Sintaxe, NumPy, Pandas, manipulação de dados. | 🐍 Python, 🔢 NumPy, 🐼 Pandas |  Colab |
