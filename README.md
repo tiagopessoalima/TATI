@@ -37,12 +37,12 @@ A disciplina é dividida em 20 semanas (90 minutos cada), distribuídas da segui
 
 | Semana | Tópico | Detalhes | 🛠️ Ferramentas/Técnicas | Material de Apoio |
 | :-----: | :------------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------ | :---: |
-| 1 | 📚 Introdução à Ciência de Dados | Conceitos básicos, ciclo de vida (CRISP-DM), Python/R, Jupyter. | 🐍 Python, 📈 R, 📝 Jupyter | [Apostila](Apostila_Semana_01_(TATI).pdf), [Notebook](Aula_Semana_01_(TATI).ipynb) |
-| 2 | 🐍 Programação para Ciência de Dados (Python) | Sintaxe, NumPy, Pandas, manipulação de dados. | 🐍 Python, 🔢 NumPy, 🐼 Pandas |  [Apostila](Apostila_Semana_02_(TATI).pdf), [Notebook](Aula_Semana_02_(TATI).ipynb) |
-| 3 | 📈 Estatística Descritiva | Medidas de tendência central, dispersão, EDA. | 🐼 Pandas |  [Notebook](Aula_Semana_03_(TATI).ipynb) |
-| 4 | 🧹 Manipulação e Limpeza de Dados | Tratamento de dados faltantes, outliers, normalização. | 🐼 Pandas, ⚙️ Scikit-learn |  [Notebook](Aula_Semana_04_(TATI).ipynb) |
-| 5 | 📊 Visualização de Dados | Gráficos estatísticos, storytelling com dados. | 📉 Matplotlib, 🎨 Seaborn |  [Notebook](Aula_Semana_05_(TATI).ipynb) |
-| 6 | 🧪 Estatística Inferencial Básica | Testes de hipóteses, intervalos de confiança, correlação. | 🔬 SciPy, 📊 Statsmodels |  Colab |
+| 1 | 📚 Introdução à Ciência de Dados | Conceitos básicos, ciclo de vida (CRISP-DM), Python/R, Jupyter. | 🐍 Python, 📈 R, 📝 Jupyter | [Notebook](Semana_01_(TATI).ipynb) |
+| 2 | 🐍 Programação para Ciência de Dados (Python) | Sintaxe, NumPy, Pandas, manipulação de dados. | 🐍 Python, 🔢 NumPy, 🐼 Pandas |  [Notebook](Semana_02_(TATI).ipynb) |
+| 3 | 📈 Estatística Descritiva | Medidas de tendência central, dispersão, EDA. | 🐼 Pandas |  [Notebook](Semana_03_(TATI).ipynb) |
+| 4 | 🧹 Manipulação e Limpeza de Dados | Tratamento de dados faltantes, outliers, normalização. | 🐼 Pandas, ⚙️ Scikit-learn |  [Notebook](Semana_04_(TATI).ipynb) |
+| 5 | 📊 Visualização de Dados | Gráficos estatísticos, storytelling com dados. | 📉 Matplotlib, 🎨 Seaborn |  [Notebook](Semana_05_(TATI).ipynb) |
+| 6 | 🧪 Estatística Inferencial Básica | Testes de hipóteses, intervalos de confiança, correlação. | 🔬 SciPy, 📊 Statsmodels |  [Notebook](Semana_06_(TATI).ipynb) |
 | 7 | 📝 Revisão 1 | Recapitulação das Semanas 1–6. | 📖 Revisão geral |  Colab |
 | 8 | 📝 Prova 1 | Avaliação teórica e prática. | ✍️ Prova escrita e prática |  Colab |
 | 9 | 🗣️ Seminários 1 | Apresentação de casos reais. | 🎤 Apresentações e debates |  Colab |
